@@ -1,6 +1,6 @@
-- 👋 Olá pessoa, eu sou Ulisses Hen
+- 👋 Olá pessoal, eu sou Ulisses Hen
 - 👀 Estou interessado em Arquitetura de Software
-- 🌱 Atualmente estou aprendendo Angular <a href="https://www.udemy.com/share/101WAU3@2cXOLb1tGuuztneZj_8LHQ9bb4HkkNa8kHmGz7lI2Ap8jlDN3paaFkN-nHR0E0xB"> Curso Udemy</a>
+- 🌱 Atualmente estou aprendendo Flutter
 - 💞️ Estou procurando para colaborar em projetos de tradução de frameworks/tools/padrões de projetos.
 - 📫 Como me encontrar: ulisseshen@gmail.com @ulisseshen
 
