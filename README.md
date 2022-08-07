@@ -1,8 +1,8 @@
 - 👋 Olá pessoal, eu sou Ulisses Hen
 - 👀 Estou interessado em:
-  -- Arquitetura de Software, 
-  -- TDD,
-  -- Clean Code
+  - Arquitetura de Software, 
+  - TDD,
+  - Clean Code,
 - 🌱 Atualmente estou trabalhando com Dart utilizando o Flutter SDK
 - 💞️ Estou procurando para colaborar em projetos de tradução de frameworks/tools/padrões de projetos.
 - 📫 Como me encontrar: ulisses@hens.com @ulissesfhen
