@@ -11,6 +11,10 @@
   - Dart utilizando o Flutter SDK;
 ## 💞️ Estou procurando para colaborar em projetos: 
   - tradução de frameworks/tools/padrões de projetos.
+## 👨🏻‍💻 Atualmente estou aprendendo:
+  - Dart & Flutter
+  - Cloud AWS
+  - Gestão de TI
   
 ## Linguagens que uso*:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisseshen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
