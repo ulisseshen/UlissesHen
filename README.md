@@ -6,9 +6,12 @@
   - Clean Code,
   - Aprender Inglês,
   - Prestar Monitoria para Iniciantes;
-  - Cloud compute aws/google
+  - Cloud Computer aws/google
+  - Computação Quântica
+  - Programação Quântica
 ## 🧑🏻‍💻 Atualmente estou trabalhando com:
-  - Dart utilizando o Flutter SDK;
+  - Dart utilizando o Flutter SDK para desenvolvimento mobile;
+
 ## 💞️ Estou procurando para colaborar em projetos: 
   - tradução de frameworks/tools/padrões de projetos.
 ## 👨🏻‍💻 Atualmente estou aprendendo:
