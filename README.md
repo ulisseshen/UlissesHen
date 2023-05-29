@@ -1,29 +1,29 @@
-# 👋 Olá pessoal, esse é meu perfil no Github.
-## 👀 Estou interessado em:
-  - Desenvolvimento Mobile,
-  - Arquitetura de Software, 
+# 👋 Hello everyone, this is my Github profile.
+## 👀 I'm interested in:
+  - Mobile Development,
+  - Software Architecture,
   - TDD,
   - Clean Code,
-  - Aprender Inglês,
-  - Prestar Monitoria para Iniciantes;
-  - Cloud Computer aws/google
-  - Computação Quântica
-  - Programação Quântica
-## 🧑🏻‍💻 Atualmente estou trabalhando com:
-  - Dart utilizando o Flutter SDK para desenvolvimento mobile;
-
-## 💞️ Estou procurando para colaborar em projetos: 
-  - tradução de frameworks/tools/padrões de projetos.
-## 👨🏻‍💻 Atualmente estou aprendendo:
-  - Dart & Flutter
-  - Cloud AWS
-  - Gestão de TI
+  - Learning English,
+  - Mentoring Beginners,
+  - AWS/Google Cloud Computing,
+  - Quantum Computing,
+  - Quantum Programming
+## 🧑🏻‍💻 Currently, I'm working with:
+  - Dart using Flutter SDK for mobile development;
   
-## Linguagens que uso*:
+## 💞️ I'm looking to collaborate on projects:
+  - Translation of frameworks/tools/design patterns.
+## 👨🏻‍💻 Currently, I'm learning:
+  - Dart & Flutter,
+  - AWS Cloud,
+  - IT Management
+  
+## Languages I use*:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisseshen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-##### *OBS: C# NÃO ESTÁ NA LISTA; NÚMEROS SOMENTE DOS REPOSITORIOS PÚBLICOS.
+##### *NOTE: C# IS NOT IN THE LIST; NUMBERS ARE ONLY FOR PUBLIC REPOSITORIES.
   
-## 📫 Como me encontrar:
+## 📫 How to reach me:
   - ulisses@hens.com @ulissesfhen
 
 <!---
