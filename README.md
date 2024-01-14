@@ -20,8 +20,12 @@
   - IT Management
   
 ## Languages I use*:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisseshen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisseshen&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
 ##### *NOTE: C# IS NOT IN THE LIST; NUMBERS ARE ONLY FOR PUBLIC REPOSITORIES.
+
+## My Github Status
+![Ulisses's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulisseshen&theme=midnight-purple&show_icons=true)
+
   
 ## 📫 How to reach me:
   - ulisses@hens.com @ulissesfhen
