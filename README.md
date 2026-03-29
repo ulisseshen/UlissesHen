@@ -1,9 +1,8 @@
-## 🧑🏻‍💻 Currently, I'm working with:
+## 🧑🏻‍💻 Mobile Tech Lead | AI Tools Builder
   - Dart using Flutter SDK for mobile development;
   - Claude Code for AI-assisted development;
   - Roblox game development;
   - AI enthusiast;
-
 ## 🚀 Projects I'm working on
 - 📸 [print_widget](https://github.com/ulisseshen/print_widget) — Capture Flutter widgets as PNG screenshots for visual verification, designed for LLMs.
 - 🧪 [flutter_valenty](https://github.com/ulisseshen/flutter_valenty) — UI-first component testing for Flutter apps using typed builder DSLs and the Modern Test Pyramid.
