@@ -1,38 +1,12 @@
 # 👋 Hello everyone, this is my Github profile.
-## 👀 I'm interested in:
-  - Mobile Development,
-  - Software Architecture,
-  - TDD,
-  - Clean Code,
-  - Learning English,
-  - Mentoring Beginners,
-  - AWS/Google Cloud Computing,
-  - Quantum Computing,
-  - Quantum Programming
-## 🧑🏻‍💻 Currently, I'm working with:
-  - Dart using Flutter SDK for mobile development;
 
 ## 🚀 Projects I'm working on
 - 📸 [print_widget](https://github.com/ulisseshen/print_widget) — Capture Flutter widgets as PNG screenshots for visual verification, designed for LLMs.
 - 🧪 [flutter_valenty](https://github.com/ulisseshen/flutter_valenty) — UI-first component testing for Flutter apps using typed builder DSLs and the Modern Test Pyramid.
+- 🪄 [mage](https://github.com/ulisseshen/mage) — AI-powered CLI where agents craft, share, and reuse plugins across any AI tool.
 - 🇧🇷 [flutterbrasil](https://github.com/ulisseshen/flutterbrasil) — The Flutter website for Brazilians.
 - 🎯 [dart2brasil/site-www](https://github.com/dart2brasil/site-www) — The official Dart website translated to Brazilian Portuguese.
-  
-## 💞️ I'm looking to collaborate on projects:
-  - Translation of frameworks/tools/design patterns.
-## 👨🏻‍💻 Currently, I'm learning:
-  - Dart & Flutter,
-  - AWS Cloud,
-  - IT Management
-  
-## Languages I use*:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ulisseshen&layout=compact&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
-##### *NOTE: C# IS NOT IN THE LIST; NUMBERS ARE ONLY FOR PUBLIC REPOSITORIES.
 
-## My Github Status
-![Ulisses's GitHub stats](https://github-readme-stats.vercel.app/api?username=ulisseshen&theme=midnight-purple&show_icons=true)
-
-  
 ## 📫 How to reach me:
   - ulisses@hens.com @ulissesfhen
 
