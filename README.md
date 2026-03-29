@@ -15,12 +15,6 @@
 ## 👀 I'm interested in:
   - Mobile Development, Software Architecture, TDD, Clean Code, Learning English, Mentoring Beginners, AWS/Google Cloud Computing, Quantum Computing & Programming
 
-## 💞️ I'm looking to collaborate on:
-  - Translation of frameworks/tools/design patterns.
-
-## 👨🏻‍💻 Currently, I'm learning:
-  - Dart & Flutter, AWS Cloud, IT Management
-
 ---
 
 ## Languages I use*:
