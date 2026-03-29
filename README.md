@@ -1,5 +1,3 @@
-# 👋 Hello everyone, this is my Github profile.
-
 ## 🧑🏻‍💻 Currently, I'm working with:
   - Dart using Flutter SDK for mobile development;
 
