@@ -7,7 +7,7 @@
 ## 🚀 Projects I'm working on
 - 📸 [print_widget](https://github.com/ulisseshen/print_widget) — Capture Flutter widgets as PNG screenshots for visual verification, designed for LLMs.
 - 🧪 [flutter_valenty](https://github.com/ulisseshen/flutter_valenty) — UI-first component testing for Flutter apps using typed builder DSLs and the Modern Test Pyramid.
-- 🪄 [mage](https://github.com/ulisseshen/mage) — AI-powered CLI where agents craft, share, and reuse plugins across any AI tool.
+- 🪄 [mage](https://github.com/ulisseshen/mage) — (WIP) AI-powered CLI where agents craft, share, and reuse plugins across any AI tool.
 - 🇧🇷 [flutterbrasil](https://github.com/ulisseshen/flutterbrasil) — The Flutter website for Brazilians.
 - 🎯 [dart2brasil/site-www](https://github.com/dart2brasil/site-www) — The official Dart website translated to Brazilian Portuguese.
 
