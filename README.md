@@ -1,5 +1,8 @@
 ## 🧑🏻‍💻 Currently, I'm working with:
   - Dart using Flutter SDK for mobile development;
+  - Claude Code for AI-assisted development;
+  - Roblox game development;
+  - AI enthusiast;
 
 ## 🚀 Projects I'm working on
 - 📸 [print_widget](https://github.com/ulisseshen/print_widget) — Capture Flutter widgets as PNG screenshots for visual verification, designed for LLMs.
