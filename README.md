@@ -7,6 +7,7 @@
   - AI Tools Builder;
 ## 🚀 Projects I'm working on
 - 📸 [print_widget](https://github.com/ulisseshen/print_widget) — Capture Flutter widgets as PNG screenshots for visual verification, designed for LLMs.
+- 🧬 [clonescope](https://github.com/ulisseshen/clonescope) — AST-based duplicate-code detector for Dart and Flutter with architecture-aware ranking.
 - 🧪 [flutter_valenty](https://github.com/ulisseshen/flutter_valenty) — UI-first component testing for Flutter apps using typed builder DSLs and the Modern Test Pyramid.
 - 🦭 [seal](https://github.com/ulisseshen/seal) — (WIP) Autonomous Management task runner for Claude Code, Codex, Antigravity, and Cursor. Discipline. Execution. No excuses.
 - 🪄 [mage](https://github.com/ulisseshen/mage) — (WIP) AI-powered CLI where agents craft, share, and reuse plugins across any AI tool.
